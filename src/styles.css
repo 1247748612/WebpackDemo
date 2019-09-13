@@ -6,11 +6,11 @@
   font-style: normal;
 }
 
-.hello {
-  color: red;
-}
 
 body {
   font-family: 'Roboot';
   /* background: url('./icon.jpg'); */
+}
+
+.hello {
 }
