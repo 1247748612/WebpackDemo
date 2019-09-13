@@ -1,0 +1,11 @@
+# Compressed package
+*.zip
+
+# clear
+dist
+
+# clear package
+node_modules
+
+# Sundries
+Sundries
